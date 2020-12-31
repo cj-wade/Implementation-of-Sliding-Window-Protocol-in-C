@@ -1,5 +1,1 @@
-IMPORTANT
-
-All input.* and communicate.* files will be overwritten when we grade Lab 1.
-Please refer to the website under the projects section for further instructions.
-http://cseweb.ucsd.edu/classes/fa16/cse123-a/project.html
+# 这是计算机网络中数据链路层的滑动窗口协议(SWP)的C语言实现
